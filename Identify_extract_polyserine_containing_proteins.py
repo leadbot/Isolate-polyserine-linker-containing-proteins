@@ -12,7 +12,7 @@ fasta_file_folder='fasta_folder'
 fasta_delimiter='.fasta'
 
 length_of_seq=80
-regex='SSSSSS'
+regex='SSSSS'
 
 output_file="polyserine_containing_proteins.faa"
 
